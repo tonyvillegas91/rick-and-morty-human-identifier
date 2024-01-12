@@ -1,0 +1,4 @@
+# Rick and Morty - Detector de Humanos
+Este proyecto tiene como objetivo ayudar a Rick y Morty en su nueva aventura, donde todas las especies se han rebelado contra los humanos. Para resolver este problema, hemos creado una aplicación que muestra una lista de personajes de Rick and Morty que son humanos, utilizando datos de la API de Rick and Morty.
+
+This project aims to help Rick and Morty in their new adventure where all species have rebelled against humans. To solve this problem, we created an application that displays a list of Rick and Morty characters that are human, using data from the Rick and Morty API.
